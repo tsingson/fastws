@@ -6,8 +6,9 @@ import (
 	"time"
 
 	"github.com/dgrr/fasthttprouter"
-	"github.com/dgrr/fastws"
 	"github.com/valyala/fasthttp"
+
+	"github.com/dgrr/fastws"
 )
 
 func main() {
