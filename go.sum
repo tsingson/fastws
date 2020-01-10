@@ -2,8 +2,6 @@ github.com/buaazp/fasthttprouter v0.1.1 h1:4oAnN0C3xZjylvZJdP35cxfclyn4TYkW6Y+DS
 github.com/buaazp/fasthttprouter v0.1.1/go.mod h1:h/Ap5oRVLeItGKTVBb+heQPks+HdIUtGmI4H5WCYijM=
 github.com/dgrr/fasthttprouter v0.1.1 h1:OxN8dXSN1vGPPq+487UqEp0pi7eTfJNstFYex/O9EnM=
 github.com/dgrr/fasthttprouter v0.1.1/go.mod h1:TsbEWu6ZUhQylTaH2NJ3cvDloW12f9gw0ibXA+CywGc=
-github.com/dgrr/fastws v0.0.0-20190521184023-c7fa015aed13 h1:NsemlvAtgKiaoiSMr1NpwqsOKIyATbXVn0cHYnn0Cfg=
-github.com/dgrr/fastws v0.0.0-20190521184023-c7fa015aed13/go.mod h1:hjWbnsdDjp6OXXOOrMNE9CmN2q2BwWKIr9nkQNBtSTg=
 github.com/gorilla/websocket v1.4.1 h1:q7AeDBpnBk8AogcD4DSag/Ukw/KV+YhzLj2bP5HvKCM=
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/klauspost/compress v1.8.2 h1:Bx0qjetmNjdFXASH02NSAREKpiaDwkO1DRZ3dV2KCcs=

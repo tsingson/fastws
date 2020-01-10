@@ -6,7 +6,7 @@ import (
 
 	"github.com/valyala/fasthttp"
 
-	"github.com/dgrr/fastws"
+	"github.com/tsingson/fastws"
 )
 
 func main() {

@@ -1,6 +1,6 @@
-module github.com/dgrr/fastws
+module github.com/tsingson/fastws
 
-go 1.13
+go 1.14
 
 require (
 	github.com/buaazp/fasthttprouter v0.1.1

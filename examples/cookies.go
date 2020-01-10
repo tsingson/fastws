@@ -8,7 +8,7 @@ import (
 	"github.com/dgrr/fasthttprouter"
 	"github.com/valyala/fasthttp"
 
-	"github.com/dgrr/fastws"
+	"github.com/tsingson/fastws"
 )
 
 func main() {
